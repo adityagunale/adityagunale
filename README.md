@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Gunale</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack Developer | React Native Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on **Mobile App Development In React-Native**
 
 - 👨‍💻 All of my projects are available at [https://adityagunaleportfolio.netlify.app/](https://adityagunaleportfolio.netlify.app/)
 
-- 📫 How to reach me **aadigunale2002@gmail.com**
+- 📫 How to reach me **adityagunale16@gmail.com**
 
 - ⚡ Fun fact **There is no dead end for programming :)**
 
